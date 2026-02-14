@@ -1,0 +1,5 @@
+LOC 6
+Data 10
+Data 3
+LDR 1,0,6
+HLT
